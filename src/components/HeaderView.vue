@@ -15,13 +15,15 @@
         </div>
       </header>
       <section class="py-16 text-center">
-        <div class="container mx-auto">
+        <div class="container mx-auto justify-between items-center">
           <div class="blur-background"></div>
-          <div class="text-white text-lg mb-8">
-            <div class="mx-auto">
+            <div class="mx-auto justify-between items-center">
               <h2 class="mt-4 font-bold text-8xl text-blue-800 max-w-prose mx-auto">
-                A design conference for the dark side.
+                A design conference
               </h2>
+              <h3 class="mt-4 font-bold text-8xl text-blue-800 max-w-prose mx-auto">
+                for the dark side
+              </h3>
               <p class="mt-4 font-semibold text-blue-600 text-lg max-w-prose mx-auto">
                 The next generation of web users are tech-savvy and suspicious.
                 They know how to use dev tools, they can detect a phishing scam from a mile away,
@@ -33,7 +35,6 @@
                 without ever being detected.
               </p>
             </div>
-          </div>
           <br>
           <div class="grid grid-cols-4 gap-4 text-center">
             <div>
@@ -65,20 +66,6 @@
   </script>
   
   <style>
-  h3 {
-    margin: 40px 0 0;
-  }
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  li {
-    display: inline-block;
-    margin: 0 10px;
-  }
-  a {
-    color: #42b983;
-  }
   </style>
   
   
